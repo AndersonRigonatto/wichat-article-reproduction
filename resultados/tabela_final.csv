@@ -1,0 +1,18 @@
+metodo,tipo,treino,n,acuracia,ic95,f1_macro
+base,LLM: gemini-3.5-flash-lite,nenhum,117,0.752,0.67–0.82,0.749
+knowledge,LLM: gemini-3.5-flash-lite,nenhum,117,0.769,0.69–0.84,0.763
+cot,LLM: gemini-3.5-flash-lite,nenhum,117,0.821,0.74–0.88,0.819
+icl,LLM: gemini-3.5-flash-lite,3 exemplos no prompt,117,0.812,0.73–0.87,0.806
+base_img,LLM: gemini-3.5-flash-lite,nenhum,117,0.547,0.46–0.63,0.515
+knowledge_img,LLM: gemini-3.5-flash-lite,nenhum,117,0.598,0.51–0.68,0.513
+cot_img,LLM: gemini-3.5-flash-lite,nenhum,117,0.487,0.40–0.58,0.406
+base_img_fix,LLM: gemini-3.5-flash-lite,nenhum,117,0.761,0.68–0.83,0.757
+knowledge_img_fix,LLM: gemini-3.5-flash-lite,nenhum,117,0.855,0.78–0.91,0.856
+cot_img_fix,LLM: gemini-3.5-flash-lite,nenhum,117,0.752,0.67–0.82,0.739
+base,LLM: gemini-3.8-flash,nenhum,117,0.829,0.75–0.89,0.829
+cot,LLM: gemini-3.8-flash,nenhum,117,0.88,0.81–0.93,0.881
+cot_img_fix,LLM: gemini-3.8-flash,nenhum,117,0.863,0.79–0.91,0.862
+SVM bruto,supervisionado,273 janelas,117,0.658,0.57–0.74,0.665
+SVM com medidas,supervisionado,273 janelas,117,0.88,0.81–0.93,0.88
+"SVM com medidas, 3 exemplos",supervisionado,3 janelas (as do ICL),117,0.778,0.69–0.84,0.77
+CNN 1D (execução mediana),supervisionado,273 janelas,117,0.88,0.81–0.93,0.879

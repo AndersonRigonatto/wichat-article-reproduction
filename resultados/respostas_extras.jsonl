@@ -1,0 +1,702 @@
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0000", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0001", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0002", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0006", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0008", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0010", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0011", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0015", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0018", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0019", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0022", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0023", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0030", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0031", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0032", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0036", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0038", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0041", "estrategia": "base_img_fix", "label": "walk", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0047", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0049", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0053", "estrategia": "base_img_fix", "label": "walk", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0056", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0059", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0068", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0074", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0079", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0081", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0088", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0089", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0091", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0093", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0095", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0098", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0103", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0107", "estrategia": "base_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0111", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0115", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0125", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0127", "estrategia": "base_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0131", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0132", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0144", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0150", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0151", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0153", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0159", "estrategia": "base_img_fix", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0162", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0167", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0171", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0178", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0182", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0187", "estrategia": "base_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0188", "estrategia": "base_img_fix", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0189", "estrategia": "base_img_fix", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0190", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0193", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0201", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0204", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0205", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0212", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0216", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0217", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0218", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0220", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0221", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0222", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0229", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0232", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0233", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0236", "estrategia": "base_img_fix", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0237", "estrategia": "base_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0239", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0241", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0246", "estrategia": "base_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0248", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0251", "estrategia": "base_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0253", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0259", "estrategia": "base_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0260", "estrategia": "base_img_fix", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0262", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0263", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0264", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0268", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0272", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0273", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0274", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0282", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0286", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0288", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0294", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0295", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0296", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0301", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0302", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0303", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0306", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0310", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0311", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0321", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0322", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0324", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0336", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0337", "estrategia": "base_img_fix", "label": "no event", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0338", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0345", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0349", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0350", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0353", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0355", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0358", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0360", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0361", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0362", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0363", "estrategia": "base_img_fix", "label": "no event", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0367", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0373", "estrategia": "base_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0387", "estrategia": "base_img_fix", "label": "no event", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0000", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "Walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0001", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0002", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0006", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "Walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0008", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0010", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0011", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0015", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "Walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0018", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0019", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0022", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0023", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "Walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0030", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0031", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0032", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0036", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0038", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0041", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0047", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0049", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0053", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0056", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0059", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0068", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0074", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0079", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0081", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0088", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0089", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0091", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0093", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0095", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0098", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0103", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0107", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0111", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0115", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0125", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0127", "estrategia": "knowledge_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0131", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0132", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0144", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0150", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0151", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "Falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0153", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0159", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0162", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0167", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0171", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0178", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0182", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0187", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0188", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0189", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0190", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "Falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0193", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0201", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0204", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0205", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0212", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0216", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0217", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0218", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0220", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0221", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0222", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0229", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0232", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0233", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0236", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0237", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0239", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0241", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0246", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0248", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0251", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0253", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0259", "estrategia": "knowledge_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0260", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0262", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0263", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0264", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0268", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0272", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0273", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0274", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0282", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0286", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0288", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0294", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0295", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0296", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0301", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0302", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0303", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0306", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0310", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0311", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0321", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0322", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0324", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0336", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0337", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0338", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0345", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0349", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0350", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0353", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0355", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0358", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0360", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0361", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0362", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0363", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0367", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0373", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0387", "estrategia": "knowledge_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0000", "estrategia": "cot_img_fix", "label": "walk", "resposta": "Walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0001", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0002", "estrategia": "cot_img_fix", "label": "walk", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0006", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0008", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0010", "estrategia": "cot_img_fix", "label": "walk", "resposta": "falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0011", "estrategia": "cot_img_fix", "label": "walk", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0015", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0018", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0019", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0022", "estrategia": "cot_img_fix", "label": "walk", "resposta": "Walking", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0023", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0030", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0031", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0032", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0036", "estrategia": "cot_img_fix", "label": "walk", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0038", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0041", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0047", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0049", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0053", "estrategia": "cot_img_fix", "label": "walk", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0056", "estrategia": "cot_img_fix", "label": "walk", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0059", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0068", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0074", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0079", "estrategia": "cot_img_fix", "label": "walk", "resposta": "Walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0081", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0088", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0089", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0091", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0093", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0095", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0098", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0103", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0107", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0111", "estrategia": "cot_img_fix", "label": "walk", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0115", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0125", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0127", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0131", "estrategia": "cot_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0132", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0144", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0150", "estrategia": "cot_img_fix", "label": "fall", "resposta": "falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0151", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0153", "estrategia": "cot_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0159", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0162", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0167", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0171", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0178", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0182", "estrategia": "cot_img_fix", "label": "fall", "resposta": "Falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0187", "estrategia": "cot_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0188", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0189", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0190", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0193", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0201", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0204", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0205", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0212", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0216", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0217", "estrategia": "cot_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0218", "estrategia": "cot_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0220", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0221", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0222", "estrategia": "cot_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0229", "estrategia": "cot_img_fix", "label": "fall", "resposta": "Falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0232", "estrategia": "cot_img_fix", "label": "fall", "resposta": "falling", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0233", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0236", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0237", "estrategia": "cot_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0239", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0241", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0246", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0248", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0251", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0253", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0259", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0260", "estrategia": "cot_img_fix", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0262", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0263", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0264", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0268", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0272", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0273", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0274", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0282", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0286", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0288", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0294", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0295", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0296", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0301", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0302", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0303", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0306", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0310", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0311", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0321", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0322", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0324", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0336", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0337", "estrategia": "cot_img_fix", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0338", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0345", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0349", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0350", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0353", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0355", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0358", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0360", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0361", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0362", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0363", "estrategia": "cot_img_fix", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0367", "estrategia": "cot_img_fix", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0373", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.5-flash-lite", "id": "als_0387", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0000", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0001", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0002", "estrategia": "base", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0006", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0008", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0010", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0011", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0015", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0018", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0019", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0022", "estrategia": "base", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0023", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0030", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0031", "estrategia": "base", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0032", "estrategia": "base", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0036", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0038", "estrategia": "base", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0041", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0047", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0049", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0053", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0056", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0059", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0068", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0074", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0079", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0081", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0088", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0089", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0091", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0093", "estrategia": "base", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0095", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0098", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0103", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0107", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0111", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0115", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0125", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0127", "estrategia": "base", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0131", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0132", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0144", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0150", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0151", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0153", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0159", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0162", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0167", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0171", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0178", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0182", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0187", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0188", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0189", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0190", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0193", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0201", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0204", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0205", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0212", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0216", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0217", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0218", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0220", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0221", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0222", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0229", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0232", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0233", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0236", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0237", "estrategia": "base", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0239", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0241", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0246", "estrategia": "base", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0248", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0251", "estrategia": "base", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0253", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0259", "estrategia": "base", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0260", "estrategia": "base", "label": "no event", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0262", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0263", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0264", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0268", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0272", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0273", "estrategia": "base", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0274", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0282", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0286", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0288", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0294", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0295", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0296", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0301", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0302", "estrategia": "base", "label": "no event", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0303", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0306", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0310", "estrategia": "base", "label": "no event", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0311", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0321", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0322", "estrategia": "base", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0324", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0336", "estrategia": "base", "label": "no event", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0337", "estrategia": "base", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0338", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0345", "estrategia": "base", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0349", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0350", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0353", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0355", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0358", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0360", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0361", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0362", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0363", "estrategia": "base", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0367", "estrategia": "base", "label": "no event", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0373", "estrategia": "base", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0387", "estrategia": "base", "label": "no event", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0000", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0001", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0002", "estrategia": "cot", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0006", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0008", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0010", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0011", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0015", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0018", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0019", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0022", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0023", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0030", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0031", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0032", "estrategia": "cot", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0036", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0038", "estrategia": "cot", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0041", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0047", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0049", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0053", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0056", "estrategia": "cot", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0059", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0068", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0074", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0079", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0081", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0088", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0089", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0091", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0093", "estrategia": "cot", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0095", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0098", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0103", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0107", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0111", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0115", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0125", "estrategia": "cot", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0127", "estrategia": "cot", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0131", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0132", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0144", "estrategia": "cot", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0150", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0151", "estrategia": "cot", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0153", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0159", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0162", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0167", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0171", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0178", "estrategia": "cot", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0182", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0187", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0188", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0189", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0190", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0193", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0201", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0204", "estrategia": "cot", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0205", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0212", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0216", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0217", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0218", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0220", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0221", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0222", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0229", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0232", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0233", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0236", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0237", "estrategia": "cot", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0239", "estrategia": "cot", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0241", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0246", "estrategia": "cot", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0248", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0251", "estrategia": "cot", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0253", "estrategia": "cot", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0259", "estrategia": "cot", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0260", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0262", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0263", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0264", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0268", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0272", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0273", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0274", "estrategia": "cot", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0282", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0286", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0288", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0294", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0295", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0296", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0301", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0302", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0303", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0306", "estrategia": "cot", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0310", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0311", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0321", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0322", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0324", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0336", "estrategia": "cot", "label": "no event", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0337", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0338", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0345", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0349", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0350", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0353", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0355", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0358", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0360", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0361", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0362", "estrategia": "cot", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0363", "estrategia": "cot", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0367", "estrategia": "cot", "label": "no event", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0373", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0387", "estrategia": "cot", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0000", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0001", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0002", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0006", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0008", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0010", "estrategia": "cot_img_fix", "label": "walk", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0011", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0015", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0018", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0019", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0022", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0023", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0030", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0031", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0032", "estrategia": "cot_img_fix", "label": "walk", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0036", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0038", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0041", "estrategia": "cot_img_fix", "label": "walk", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0047", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0049", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0053", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0056", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0059", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0068", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0074", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0079", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0081", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0088", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0089", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0091", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0093", "estrategia": "cot_img_fix", "label": "walk", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0095", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0098", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0103", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0107", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0111", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0115", "estrategia": "cot_img_fix", "label": "walk", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0125", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0127", "estrategia": "cot_img_fix", "label": "walk", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0131", "estrategia": "cot_img_fix", "label": "fall", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0132", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0144", "estrategia": "cot_img_fix", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0150", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0151", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0153", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0159", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0162", "estrategia": "cot_img_fix", "label": "fall", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0167", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0171", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0178", "estrategia": "cot_img_fix", "label": "fall", "resposta": "walk", "pred": "walk"}
+{"modelo": "gemini-3.8-flash", "id": "als_0182", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0187", "estrategia": "cot_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0188", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0189", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0190", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0193", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0201", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0204", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0205", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0212", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0216", "estrategia": "cot_img_fix", "label": "fall", "resposta": "Falling", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0217", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0218", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0220", "estrategia": "cot_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0221", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0222", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0229", "estrategia": "cot_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0232", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0233", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0236", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0237", "estrategia": "cot_img_fix", "label": "fall", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0239", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0241", "estrategia": "cot_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0246", "estrategia": "cot_img_fix", "label": "fall", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0248", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0251", "estrategia": "cot_img_fix", "label": "fall", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0253", "estrategia": "cot_img_fix", "label": "fall", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0259", "estrategia": "cot_img_fix", "label": "fall", "resposta": "Fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0260", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0262", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0263", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0264", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0268", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0272", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0273", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0274", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0282", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0286", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0288", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0294", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0295", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0296", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0301", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0302", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0303", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0306", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0310", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0311", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0321", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0322", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0324", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0336", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0337", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0338", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0345", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0349", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0350", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0353", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0355", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0358", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0360", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0361", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0362", "estrategia": "cot_img_fix", "label": "no event", "resposta": "No-event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0363", "estrategia": "cot_img_fix", "label": "no event", "resposta": "fall", "pred": "fall"}
+{"modelo": "gemini-3.8-flash", "id": "als_0367", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0373", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
+{"modelo": "gemini-3.8-flash", "id": "als_0387", "estrategia": "cot_img_fix", "label": "no event", "resposta": "no event", "pred": "no event"}
